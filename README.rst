@@ -13,7 +13,7 @@ How to Run
 
 * Install node.js (http://nodejs.org)
 * Run 'npm install' to install dependencies
-* node app
+* npm start (to start with nodemon) or node app;
 * Open http://localhost:3000
 
 Tech Stack
@@ -22,4 +22,8 @@ Tech Stack
 Currently using:
 
 Node.js
+
 Express.js 3.0
+
+nodemon
+

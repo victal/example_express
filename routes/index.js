@@ -1,8 +1,4 @@
 
-/*
- * GET home page.
- */
-
 var express = require('express')
   , home = require('./home');
 
